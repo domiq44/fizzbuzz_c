@@ -1,0 +1,17 @@
+
+/* Eclipse */
+.project
+.cproject
+.settings
+.classpath
+.factorypath
+
+/* Current project */
+*.o
+*.gcda
+*.gcno
+*.compiled_h
+report
+test
+
+
